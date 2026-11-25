@@ -1,3 +1,20 @@
+<div align="center">
+  <img src="ANIME-GIF-LINK-HAN-DAH-RAW" width="100%" />
+</div>
+
+<h1 align="center">Hi, I'm YOUR-NAME ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Anime+Lover+%F0%9F%8C%B8;Developer+from+Mizoram;Building+cool+things..." />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=ff6fb5&style=flat" />
+</p>
 # 🤖 nightcore_mizo
 
 WhatsApp bot — **Baileys** + **Gemini AI**. Mizo quiz, game, sticker, group tools, IG downloader, lyrics leh a dangte nen.
