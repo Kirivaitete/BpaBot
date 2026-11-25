@@ -1,47 +1,63 @@
+<!-- HEADER WAVE - A chung a che thei -->
 <p align="center">
-  <img src="https://github.com/RSR-TG-Info/BPA-GIF/blob/main/rsr.gif?raw=true" alt="BPA Banner" width="420" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=nightcore_mizo&fontSize=50&fontColor=FF6FB5&animation=fadeIn&fontAlignY=35&desc=Anime%20%7C%20Developer%20%7C%20Mizoram&descAlignY=55&descAlign=50" width="100%" />
+</p>
+
+<!-- ANIME BANNER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+</p>
+
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%E2%9C%A8;Anime+Lover+%F0%9F%8C%B8;Building+nightcore_mizo+bot;From+Mizoram+%F0%9F%87%AE%F0%9F%87%B3" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kirivaitete&color=ff6fb5&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Bot-Baileys-25D366?style=for-the-badge&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/Anime-Lover-FF6FB5?style=for-the-badge" />
+</p>
+
+---
+
+### 💜 About Me
+- 🤖 **nightcore_mizo** Bot siamtu - Baileys + Gemini AI
+- 🎌 Anime en nuam ti, Nightcore ngaithla thin
+- 📍 Mizoram atangin
+- 👑 Creator: **Bawihpuia**
+
+---
+
+### 🔥 GitHub Stats - RSR aia mawi
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kirivaitete&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirivaitete&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=15" width="42%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=460&lines=Hey+there%2C+I%27m+RSR!;Developer+%E2%80%A2+Creator+%E2%80%A2+Innovator;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirivaitete&theme=radical&hide_border=true&background=0D1117&border_radius=15&fire=FF6FB5&currStreakLabel=FF6FB5" width="70%" />
 </p>
 
-<br/>
-
+<!-- TROPHY - A danglamna -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kirivaitete
-Info&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge" alt="Profile Views" width="210" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kirivaitete&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
 </p>
 
+<!-- CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kirivaitete
-Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="360" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirivaitete&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6FB5&line=FF6FB5&point=FFFFFF" width="100%" />
 </p>
 
+<!-- 3D CONTRIBUTION - A mawi ber, heihi belh rawh -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kirivaitete
-Info&show_icons=true&theme=tokyonight&border_color=bf91f3&border_radius=12&count_private=true" alt="GitHub Stats" width="500" />
+  <img src="https://github.com/Kirivaitete/Kirivaitete/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
+<!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RSR-TG-Info&theme=tokyonight&border=70a5fd&border_radius=12&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" width="640" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirivaitete
-Info&theme=tokyo-night&area=true&radius=12" alt="Activity Graph" width="780" />
-</p>
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </p>
