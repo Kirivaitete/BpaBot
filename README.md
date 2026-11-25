@@ -1,49 +1,47 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
-</div>
-
-<h1 align="center">Hi, I'm nightcore_mizo ✨</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6FB5&center=true&vCenter=true&width=500&lines=Anime+Lover+%F0%9F%8C%B8;Developer+from+Mizoram;Building+cool+things..." />
+  <img src="https://github.com/RSR-TG-Info/BPA-GIF/blob/main/rsr.gif?raw=true" alt="BPA Banner" width="420" />
 </p>
 
-<!-- 1. MOST USED LANGUAGES - A thlalak a chung ber kha -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirivaitete&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="60%" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=460&lines=Hey+there%2C+I%27m+RSR!;Developer+%E2%80%A2+Creator+%E2%80%A2+Innovator;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
 <br/>
 
-<!-- 2. GITHUB STATS - Stars, Commits, PRs kha -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirivaitete&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&rank_icon=github" width="60%" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kirivaitete
+Info&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge" alt="Profile Views" width="210" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kirivaitete
+Info&layout=compact&langs_count=8&theme=tokyonight&border_color=70a5fd&border_radius=12" alt="Top Languages" width="360" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kirivaitete
+Info&show_icons=true&theme=tokyonight&border_color=bf91f3&border_radius=12&count_private=true" alt="GitHub Stats" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RSR-TG-Info&theme=tokyonight&border=70a5fd&border_radius=12&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" width="640" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirivaitete
+Info&theme=tokyo-night&area=true&radius=12" alt="Activity Graph" width="780" />
+</p>
 
 <br/>
 
-<!-- 3. STREAK - 795 / Current Streak / Longest kha -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirivaitete&theme=midnight-purple&hide_border=true&background=0D1117" width="60%" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
-<br/>
-
-<!-- 4. CONTRIBUTION GRAPH - Graph sei deuh kha -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirivaitete&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
-</div>
-
-<br/>
-
-<!-- 5. SNAKE - Rul in green box a ei kha -->
-<div align="center">
-  <img src="https://github.com/Kirivaitete/Kirivaitete/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<br/>
-
-# 🤖 nightcore_mizo
-WhatsApp bot — **Baileys + Gemini AI**. Mizo quiz, game, sticker, group tools, IG downloader, lyrics leh a dangte nen.
-
-👑 Creator: **Bawihpuia**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=100&section=footer" width="100%" />
+</p>
